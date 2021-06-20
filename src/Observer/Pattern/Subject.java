@@ -1,4 +1,4 @@
-package Observer.pattern;
+package Observer.Pattern;
 
 public interface Subject {
     void subscribe(Observer observer);

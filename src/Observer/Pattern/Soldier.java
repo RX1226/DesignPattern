@@ -1,4 +1,4 @@
-package Observer.pattern;
+package Observer.Pattern;
 
 public class Soldier implements Observer{
     private int id;

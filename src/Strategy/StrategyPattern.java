@@ -1,7 +1,7 @@
 package Strategy;
 
-import Strategy.pattern.ChineseHello;
-import Strategy.pattern.Person;
+import Strategy.Pattern.ChineseHello;
+import Strategy.Pattern.Person;
 
 /**
  策略模式 StrategyPattern

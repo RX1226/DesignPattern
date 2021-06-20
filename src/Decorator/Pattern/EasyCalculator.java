@@ -1,4 +1,4 @@
-package Decorator.pattern;
+package Decorator.Pattern;
 
 /**
  主要精神

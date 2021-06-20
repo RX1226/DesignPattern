@@ -1,4 +1,4 @@
-package Strategy.pattern;
+package Strategy.Pattern;
 
 public class Person {
     private SocialBehavior socialBehavior;

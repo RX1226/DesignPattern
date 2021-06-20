@@ -1,7 +1,7 @@
 package Observer;
 
-import Observer.pattern.Soldier;
-import Observer.pattern.SoldierLeader;
+import Observer.Pattern.Soldier;
+import Observer.Pattern.SoldierLeader;
 
 /**
  觀察者模式 ObserverPattern

@@ -1,4 +1,4 @@
-package Decorator.pattern;
+package Decorator.Pattern;
 
 public interface GradleCalculator {
     int getGradle();

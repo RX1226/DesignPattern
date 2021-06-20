@@ -1,9 +1,9 @@
 package Decorator;
 
-import Decorator.pattern.BaseGradleCalculator;
-import Decorator.pattern.EasyCalculator;
-import Decorator.pattern.GradleCalculator;
-import Decorator.pattern.HardCalculator;
+import Decorator.Pattern.BaseGradleCalculator;
+import Decorator.Pattern.EasyCalculator;
+import Decorator.Pattern.GradleCalculator;
+import Decorator.Pattern.HardCalculator;
 
 /**
  利用物件導向傳址的特性
