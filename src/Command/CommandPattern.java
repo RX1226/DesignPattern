@@ -3,6 +3,7 @@ package Command;
 import Command.Pattern.*;
 
 /**
+ * 命令模式 Command Pattern
  * 將不同的指令物件化
  * 透過中間人傳遞給讓執行者
  * 執行者按照指示去執行本能能做的動作
